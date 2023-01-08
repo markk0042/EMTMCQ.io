@@ -95,4 +95,8 @@
     -webkit-animation-fill-mode: forwards;
             animation-fill-mode: forwards;
   }
-  
+
+  .pagination {
+    justify-content: center;
+    padding-top: 12px;
+  }
